@@ -3,7 +3,7 @@
 
 This gnome shell extension will simply put a geary icon on your top panel and when you click on it, it will bring geary to the foreground.
 
-![How it looks](Screenshot from 2019-04-03 20-36-02.png)
+![What it looks like](https://raw.githubusercontent.com/TheBigFatTony/gnome-shell-extension-geary-tray-icon/master/Screenshot%20from%202019-04-03%2020-36-02.png)
 
 **How to install**
 
