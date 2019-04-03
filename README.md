@@ -1,4 +1,4 @@
-# Campus-Cloud-UniBe-Uploader
+# Gnome Shell Geary Tray Icon
 **Welcome to the gnome-shell-extension-geary-tray-icon wiki!**
 
 This gnome shell extension will simply put a geary icon on your top panel and when you click on it, it will bring geary to the foreground.
